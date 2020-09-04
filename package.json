@@ -1,0 +1,30 @@
+{
+  "name": "mechserv-ui",
+  "version": "1.0.0",
+  "description": "Electron UI for Mechserv",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbcsmith/mechserv-ui.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Brett C Smith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xbcsmith/mechserv-ui/issues"
+  },
+  "homepage": "https://github.com/xbcsmith/mechserv-ui#readme",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  },
+  "dependencies": {
+    "less": "^3.12.2",
+    "lessc": "^1.0.2"
+  }
+}
