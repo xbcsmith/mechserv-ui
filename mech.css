@@ -3,7 +3,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: #76CC64;
+  color: #6A9FB5;
 }
 footer {
   background-color: #21252B;
@@ -35,6 +35,7 @@ h2, h3, h4 {
   margin-right: 12px;
   margin-left: 12px;
 	margin-bottom: 0px;
+  color: #6A9FB5;
 }
 code {
 	font-family: monospace;
